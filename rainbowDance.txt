@@ -11,4 +11,6 @@ Step left \
 \
 Jump up and jump down \
 \
+twirl your hand\
+\
 Drawing rainbow in the air}
